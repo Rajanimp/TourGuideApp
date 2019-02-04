@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="thiruvananthapuram">Thiruvananthapuram</string>
+    <string name="god_s_own_capital">God\'s Own Capital</string>
+    <string name="food">Food</string>
+    <string name="events">Events</string>
+    <string name="tourism">Tourism</string>
+    <string name="temples">Temples</string>
+
+    <string-array name="temple_name">
+        <item>Sree Padmanabhaswamy Temple</item>
+        <item>Attukal Sree Bhagavathy Temple</item>
+        <item>Karikkakom Sree Chamundi Devi Temple</item>
+        <item>Pazhavangadi Sree Mahaganapathi temple</item>
+        <item>Sreekanteswaram Shiva temple"</item>
+        <item>Thiruvallom Parasurama temple</item>
+    </string-array>
+
+    <string-array name="temple_address">
+        <item>East Fort, Thiruvananthapuram, Kerala</item>
+        <item>Manacaud, Thiruvananthapuram, Kerala</item>
+        <item>Temple Road, Karikkakom, Thiruvananthapuram, Kerala</item>
+        <item>Pazhavangadi, Near East Fort, Thiruvananthapuram, Kerala</item>
+        <item>Temple Road, Pazhavangadi, Thiruvananthapuram, Kerala</item>
+        <item>Thiruvallam, Thiruvananthapuram, Kerala</item>
+    </string-array>
+
+    <string-array name="temple_phone">
+        <item>0471 2464606</item>
+        <item>0471 2463130</item>
+        <item>0471 2507671</item>
+        <item>0471 2461929</item>
+        <item>0471 2472233</item>
+        <item>0471 2380706</item>
+    </string-array>
+
+    <string-array name="temple_description">
+        <item>A temple dedicated to Lord Vishnu reclining in yogic sleep on a serpant. The temple is built in an intricate fusion of the indigenous Kerala style and the Tamil style of architecture associated with the temples located in the neighbouring state of Tamil Nadu, featuring high walls, and a 16th-century Gopuram.</item>
+        <item>A temple dedicated to Goddess Kannagi and is known for its female-focused annual festival called Attukal Pongala.</item>
+        <item>An ancient temple, 600 years old, dedicated to Goddess Chamundi, it is located at Karikkakom, around 7 km north of Sree Padmanabhaswamy temple.</item>
+        <item>Situated at East Fort in the heart of the city, the main deity of the temple is Sri Mahaganapathy in a seated posture with the right leg in a folded stance. The temple is situated in close proximity to the Sri Padmanabhaswamy temple.</item>
+        <item>A temple situated in the heart of the city, this temple is more than 700 years old. It is dedicated to Lord Shiva.</item>
+        <item>Ancient Hindu temple where devotees pay homage to ancestors and after-death ceremonies are performed.</item>
+    </string-array>
+
+    <string-array name="touristPlace_name">
+        <item>Sri Chithra Art Gallery (Napier Museum)</item>
+        <item>Thiruvananthapuram Zoo</item>
+        <item>Veli Lake and Tourist Village</item>
+        <item>Shankhumugham Beach</item>
+        <item>Kovalam Beach</item>
+        <item>Magic Planet</item>
+        <item>Kerala Science and Technology Museum</item>
+    </string-array>
+
+    <string-array name="touristPlace_address">
+        <item>LMS Vellayambalam Road, Near Museum Junction, Palayam, Thiruvananthapuram, Kerala</item>
+        <item>Nanthancodu Road, Thiruvananthapuram, Kerala</item>
+        <item>Veli Road, Veli, Thiruvananthapuram, Kerala</item>
+        <item>Shankhumugham, Thiruvananthapuram, Kerala</item>
+        <item>Kovalam, Thiruvananthapuram, Kerala</item>
+        <item>KINFRA Film and Video Park, Kazhakuttom, Thiruvananthapuram, Kerala </item>
+        <item>PMG Junction, Vikas Bhavan P.O, Thiruvananthapuram, Kerala</item>
+    </string-array>
+
+    <string-array name="touristPlace_phone">
+        <item>0471 2318294</item>
+        <item>0471 2316275</item>
+        <item>0471 2500785</item>
+        <item>099786 11237</item>
+        <item>0471 2489876</item>
+        <item>094470 14800</item>
+        <item>0471 2306024</item>
+    </string-array>
+
+    <string-array name="touristPlace_description">
+        <item>The Sri Chithra Art Gallery or Napier Museum is an art and natural history museum. Architecturally unique 19th-century building with archeological and historical artifacts along with art display.</item>
+        <item>The Thiruvananthapuram Zoo is located in the city of Thiruvananthapuram and occupies 55 acres of woodland, lakes, and lawns, consisting of a sprawling conservatory and zoo featuring a wide variety of domestic and exotic animals.</item>
+        <item>A scenic lake with a beach, playground, floating cafe and sculptures, plus activities such as boating. The lake flows into the Arabian Sea.</item>
+        <item>Shankhumugham is a beach on the western side of Thiruvananthapuram, situated very near to Trivandrum International Airport.</item>
+        <item>Kovalam is a small coastal town in Kerala, south of Thiruvananthapuram. At the southern end of Lighthouse Beach is a striped lighthouse with a viewing platform. Palm-backed beaches also include Hawa Beach and Samudra Beach. Heading south, Vizhinjam Juma Masjid mosque overlooks the busy fishing harbor. Inland, Sagarika Marine Research Aquarium displays technology used in pearl production.</item>
+        <item>World\'s first magic themed park devoted to the practice of magic, with street performances, aerialists and a museum. It was founded by the famous magician Shri Gopinath Muthukad.</item>
+        <item>An autonomous institution established by The Government of Kerala in 1984, it contains educational exhibits and activities illustrating scientific principles, along with a planetarium and 3D films for popularisation of science and scientific temper among the general public.</item>
+    </string-array>
+
+    <string-array name="restaurant_name">
+        <item>Indian Coffee House</item>
+        <item>Up North</item>
+        <item>Curry Chutty</item>
+        <item>Pathayam</item>
+        <item>Villa Maya</item>
+        <item>Mothers Veg Plaza</item>
+        <item>Open House Kitchens</item>
+        <item>Zam Zam</item>
+        <item>Annapoorna</item>
+        <item>Chinapolis</item>
+    </string-array>
+
+    <string-array name="restaurant_address">
+        <item>Maveli Café, Near K.S.R.T.C. Stand, Thampanoor, Thiruvananthapuram, Kerala</item>
+        <item>No 4, T N Samruddhi Chambers, Opposite, Vazhuthacaud, Thiruvananthapuram, Kerala</item>
+        <item>Mettukada Erakkam Rd, Housing Board, Thycaud, Thiruvananthapuram, Kerala</item>
+        <item>Press Road, Statue, Palayam, Thiruvananthapuram, Kerala </item>
+        <item>Near Muthoot Sky Chef, Enjakkal, 120, Palayam Airport Rd, Vallakkadavu, Thiruvananthapuram, Kerala</item>
+        <item>Bakery Junction, Near Russian Culture, Palayam, Thiruvananthapuram, Kerala</item>
+        <item>Kunnumpuram Road, Pulimoodu, Thiruvananthapuram, Kerala</item>
+        <item>Opp MLA Hostel, Palayam, Thiruvananthapuram, Kerala </item>
+        <item>Pazhavangadi, Chalai Bazaar, Chalai, Thiruvananthapuram, Kerala</item>
+        <item>Vivanta, CV Raman Pillai Rd, DPI, Vazhuthacaud, Thiruvananthapuram, Kerala</item>
+    </string-array>
+
+    <string-array name="restaurant_phone">
+        <item>0471 2333517</item>
+        <item>098469 74271</item>
+        <item>081130 36222</item>
+        <item>0471 2320187</item>
+        <item>0471 2578901</item>
+        <item>0471 4012255</item>
+        <item>0471 2467695</item>
+        <item>0471 2453046</item>
+        <item>0471 2335567</item>
+        <item>0471 6612345</item>
+    </string-array>
+
+    <string-array name="restaurant_description">
+        <item>The Indian Coffee House is one of the prominent landmarks in the Thampanoor area of Thiruvananthapuram designed by architect Laurie Baker. Both the railway station as well as the bus terminal are located nearby. All kinds of snacks are available here.</item>
+        <item>Lt. Col Karma\'s Up North is a restaurant in Vazhuthacadu, Thiruvananthapuram, that serves delicious North Indian vegetarian dishes only. Almost all north Indian dishes are available here.</item>
+        <item>Authentic Kerala cuisine, Indian, and Chinese come under one roof in this restaurant set in a restored traditional house with multi themed ambience.</item>
+        <item>A unique natural food restaurant in Thiruvananthapuram, offering food that is not only delicious but also good for the body. </item>
+        <item>Upscale global cuisine presented in an elegant, restored 18th-century home with a garden patio.</item>
+        <item>Vegetarian dishes and rice are ladled onto banana leaves at this simple Indian restaurant.</item>
+        <item>Open House Kitchens near Dhanya Remya Theatre and Ayurvedha College at Kunnumpuram is known for its variety of chicken dishes.</item>
+        <item>Famous for Middle Eastern dishes, this restaurant chain was created in 1979 and is also known for its ice creams.</item>
+        <item>A haven for vegetarians where pure vegetarian dishes can be ordered round the clock. Known for its authentic Kerala taste and freshness.</item>
+        <item>A chinese food restaurant at Vivanta by Taj at Trivandrum. Beautiful and grand restaurant with beautiful ambience.</item>
+    </string-array>
+
+    <string-array name="event_name">
+        <item>Kathakali - Nalacharitham</item>
+        <item>Fasting and Detoxification Programme</item>
+        <item>Vestibular and Balance Disorders Workshop</item>
+        <item>RAICS 2018: IEEE International Conference on Recent Advances in Computational Systems</item>
+        <item>Trivandrum Marathon 2018</item>
+        <item>Kavyasayahnam</item>
+    </string-array>
+
+    <string-array name="event_date_time">
+        <item>Friday, November 30, 2018, 6:00 p.m.</item>
+        <item>Tuesday, December 4, 2018, 5:00 p.m.</item>
+        <item>Thursday, December 6, 2018, 8:30 a.m.</item>
+        <item>Friday, December 7, 2018</item>
+        <item>Saturday, December 1, 2018</item>
+        <item>Monday, December 3, 2018</item>
+    </string-array>
+
+    <string-array name="event_venue">
+        <item>Theerthapada Mandapam</item>
+        <item>Sivananda Yoga Vedanta Dhanwantari Ashram</item>
+        <item>National Institude of Speech and Hearing</item>
+        <item>IEEE Kerala Section</item>
+        <item>Sports Kerala Trivandrum</item>
+        <item>Vyloppilli Samskrithi Bhavan</item>
+    </string-array>
+
+    <string-array name="event_address">
+        <item>Padmatheertha, East Fort, Thiruvananthapuram, Kerala</item>
+        <item>Neyyar Dam, Thiruvananthapuram, Kerala</item>
+        <item>Sreekariyam, NISH Road, Akkulam, Thiruvananthapuram, Kerala</item>
+        <item>Pulimoodu Lane, Pulimoodu, Thiruvananthapuram, Kerala</item>
+        <item>Manaveeyam Road, Near Kanakakkunnu, Thiruvananthapuram, Kerala</item>
+        <item>Nalanda Junction, Plammoodu, Thiruvananthapuram, Kerala </item>
+    </string-array>
+</resources>
